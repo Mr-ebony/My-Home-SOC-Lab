@@ -16,10 +16,10 @@ This project documents the process of creating a home cybersecurity lab using Vi
 4. Configure Host-only Networking
    1. Kali:
       Make sure the VirtualBox adapter is enabled:
-      1.  Kali VM > Settings > Network > Adapter 1
-      2. ✅ Ensure "Enable Network Adapter" is checked
-      . Attached to: Internal Network
-      . Cable Connected: ✅✔
+      a.  Kali VM > Settings > Network > Adapter 1
+      b. ✅ Ensure "Enable Network Adapter" is checked
+      c. Attached to: Internal Network
+      d. Cable Connected: ✅✔
       Note: Repeat the above settings for Windows ( See image 1 )
 
       Next, assign a Static IP ( See image 2 )
