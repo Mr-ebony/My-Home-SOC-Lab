@@ -40,7 +40,7 @@ This project documents the process of creating a home cybersecurity lab using Vi
    ##### Ping (Window IP)
   
    ##### Window Command Prompt: Ipconfig (See Image 7)
-   ##### Ping (Window IP)
+   ##### Ping (Kali Linux IP)
   
 7. Ran Nmap scan from Kali to Windows (**See Image 8**)
    + From Kali Bash run: nmap -sV (Windows IP)
